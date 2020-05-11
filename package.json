@@ -8,14 +8,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/feroxes/step_project_forkio.git"
+    "url": "https://github.com/yamnyk/Solod.git"
   },
-  "author": "Yaroslav Harmash & Denis Kanivets",
+  "author": "Nick Yamnyk, Alexander Zaytsev, Yaroslav Harmash, Denis Kanivets, Saribeg Karakhanyan, Dmytro Levchuk, Valentina Pechyonchik",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/feroxes/step_project_forkio/issues"
-  },
-  "homepage": "https://github.com/feroxes/step_project_forkio#readme",
+  "homepage": "",
   "devDependencies": {
     "@babel/core": "^7.1.2",
     "@babel/preset-env": "^7.1.0",
